@@ -1,4 +1,0 @@
-/home/lance/Documents/mydocument/vslam-homework/ch2/homework/build/CMakeFiles/edit_cache.dir
-/home/lance/Documents/mydocument/vslam-homework/ch2/homework/build/CMakeFiles/rebuild_cache.dir
-/home/lance/Documents/mydocument/vslam-homework/ch2/homework/build/CMakeFiles/hw2_3.dir
-/home/lance/Documents/mydocument/vslam-homework/ch2/homework/build/CMakeFiles/hw2_2.dir
