@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/hw2_2.dir/src/hw2_2.cpp.o  -o hw2_2 -rdynamic 
