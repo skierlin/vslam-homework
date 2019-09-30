@@ -1,0 +1,3 @@
+/home/lance/Documents/mydocument/vslam-homework/ch4/hw/gaussnewton/build/CMakeFiles/rebuild_cache.dir
+/home/lance/Documents/mydocument/vslam-homework/ch4/hw/gaussnewton/build/CMakeFiles/edit_cache.dir
+/home/lance/Documents/mydocument/vslam-homework/ch4/hw/gaussnewton/build/CMakeFiles/gaussnewton.dir
